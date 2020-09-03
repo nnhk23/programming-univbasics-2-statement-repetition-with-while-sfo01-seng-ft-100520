@@ -6,5 +6,4 @@ while count > 0 do
   count -= 1 
   break if count == smol 
   puts "Happy New Year!"
-  
 end
